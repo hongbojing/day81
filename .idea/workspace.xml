@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fac537f3-862e-4204-9b15-6294c5bde7a6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/builds/development/css/test.css" afterPath="$PROJECT_DIR$/builds/development/css/test.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/builds/development/css/test.less" afterPath="$PROJECT_DIR$/builds/development/css/test.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="day81-ang-less-demo-for-81.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -49,13 +46,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.less" pinned="false" current-in-tab="true">
+      <file leaf-file-name="test.less" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/builds/development/css/test.less">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45101842">
-              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+            <state vertical-scroll-proportion="-18.75">
+              <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.029239766">
+              <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -69,6 +79,7 @@
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/builds/development/css/test.less" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -245,10 +256,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/builds/development/css/test.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45101842">
-          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        <state vertical-scroll-proportion="-18.75">
+          <caret line="30" column="25" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.029239766">
+          <caret line="2" column="35" selection-start-line="2" selection-start-column="35" selection-end-line="2" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>

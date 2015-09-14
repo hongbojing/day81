@@ -4,6 +4,10 @@
   height: 200px;
   background: #ffdddd;
   margin: 20px;
+  border: 20px solid #ddbbbb;
+}
+.test:hover {
+  background: #ddddff;
 }
 .Round {
   -webkit-border-radius: 99999px;

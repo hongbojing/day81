@@ -4,6 +4,10 @@
 
 @defaultThemeColor:@lightRed;
 @defaultRadius:30px;
+@defaultShapesWidth:200px;
+
+@borderSize:@defaultShapesWidth * 0.1;
+@borderColor:@defaultThemeColor - #222;
 
 .test{
   display:inline-block;
@@ -11,6 +15,10 @@
   height:200px;
   background:@defaultThemeColor;
   margin:20px;
+  border: @borderSize solid @borderColor;
+    &:hover{
+      background: @lightBlue;
+    }
 }
 
 .RoundedShape(@radius:@defaultRadius){
